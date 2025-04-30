@@ -16,4 +16,6 @@ Tutorial: Create an Azure Global Load Balancer - https://learn.microsoft.com/en-
 
 Manage rules for Azure Load Balancer using the Azure portal - https://learn.microsoft.com/en-us/azure/load-balancer/manage-rules-how-to
 
-Manage inbound NAT rules for Azure Load Balancer - Use Source Network Address Translation (SNAT) for outbound connections
+Manage inbound NAT rules for Azure Load Balancer - https://learn.microsoft.com/en-us/azure/load-balancer/manage-inbound-nat-rules?tabs=inbound-nat-rule-portal
+
+Use Source Network Address Translation (SNAT) for outbound connections - https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-outbound-connections
