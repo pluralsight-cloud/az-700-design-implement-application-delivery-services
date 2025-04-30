@@ -1,0 +1,25 @@
+What is Azure Application Gateway? - https://learn.microsoft.com/en-us/azure/application-gateway/overview
+
+Azure Application Gateway features - https://learn.microsoft.com/en-us/azure/application-gateway/features
+
+Application gateway components - https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-components
+
+Scaling Application Gateway v2 and WAF v2 - https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant
+
+Application Gateway listener configuration - https://learn.microsoft.com/en-us/azure/application-gateway/configuration-listeners
+
+Application Gateway request routing rules - https://learn.microsoft.com/en-us/azure/application-gateway/configuration-request-routing-rules
+
+Application Gateway HTTP settings configuration - https://learn.microsoft.com/en-us/azure/application-gateway/configuration-http-settings
+
+Configure end-to-end TLS by using Application Gateway with the portal - https://learn.microsoft.com/en-us/azure/application-gateway/end-to-end-ssl-portal
+
+Rewrite a URL with Azure Application Gateway - Azure portal -  https://learn.microsoft.com/en-us/azure/application-gateway/rewrite-url-portal
+
+Quickstart: Direct web traffic with Azure Application Gateway - Azure portal - https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-portal
+
+Create a custom probe for Application Gateway by using the portal - https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-create-probe-portal
+
+
+
+
