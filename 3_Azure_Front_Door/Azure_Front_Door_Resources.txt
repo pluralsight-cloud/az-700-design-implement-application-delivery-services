@@ -1,0 +1,25 @@
+What is Azure Front Door? - https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview
+
+Comparison between Azure Front Door and Azure CDN services - https://learn.microsoft.com/en-us/azure/frontdoor/front-door-cdn-comparison
+
+Quickstart: Create an Azure Front Door using Azure portal - https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-portal?tabs=quick
+
+Routing architecture overview - https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-standard-premium
+
+Endpoints in Azure Front Door - https://learn.microsoft.com/en-us/azure/frontdoor/endpoint
+
+Add a new endpoint with Front Door manager - https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-endpoints
+
+How to configure an origin for Azure Front Door - https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-origin
+
+TLS encryption with Azure Front Door - https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls?pivots=front-door-standard-premium
+
+Configure a custom domain on Azure Front Door by using the Azure portal - https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-add-custom-domain
+
+Configure caching on Azure Front Door - https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-caching
+
+Traffic acceleration - https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-standard-premium
+
+URL rewrite - https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-standard-premium
+
+Secure your Origin with Private Link in Azure Front Door Premium - https://learn.microsoft.com/en-us/azure/frontdoor/private-link
