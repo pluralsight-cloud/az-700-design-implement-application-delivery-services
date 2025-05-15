@@ -1,0 +1,5 @@
+What is Traffic Manager? - https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview
+
+Traffic Manager routing methods - https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods
+
+Quickstart: Create a Traffic Manager profile using the Azure portal - https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile
